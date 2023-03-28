@@ -41,6 +41,9 @@ deque automation framework
 ```
      mvn clean verify -Dtags=@deque
 ```
+```
+     mvn clean verify -Dtags=@accessibility
+```
 
 #### Where to find Generated Report :
 * The report will be generated in /target/Automation-Report/ folder 
